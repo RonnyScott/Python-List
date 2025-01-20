@@ -1,1 +1,1 @@
-this code shows the working of lists in python
+This repo shows how lists work in Python
